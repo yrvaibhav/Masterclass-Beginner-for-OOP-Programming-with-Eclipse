@@ -1,0 +1,22 @@
+J. Blogs 56.7%true
+S. Bills 34.6%false
+R. Left 70.5%true
+C. Cloud 20.5%false
+P. Stevens 99.9%true
+C. Philips 50.0%true
+T. Taylor 1.0%true
+R. Efron 77.7%false
+L. Rich 56.6%true
+B. Jobs 40.6%false
+S. Gates 90.5%true
+J. Blogs 56.7% true
+S. Bills 34.6% false
+R. Left 70.5% true
+C. Cloud 20.5% false
+P. Stevens 99.9% true
+C. Philips 50.0% true
+T. Taylor 1.0% true
+R. Efron 77.7% false
+L. Rich 56.6% true
+B. Jobs 40.6% false
+S. Gates 90.5% true
